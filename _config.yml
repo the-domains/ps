@@ -2,6 +2,7 @@ name: ps
 favicon: null
 layout_spectrum: 0.7237244243733585
 typography_spectrum: 0.8888964829966426
+title: PS Tests some more
 cta:
   domain: null
   bucket: null
