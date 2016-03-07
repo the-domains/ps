@@ -1,0 +1,28 @@
+name: ps
+favicon: null
+layout_spectrum: 0.7237244243733585
+typography_spectrum: 0.8888964829966426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8064932662528008
+  lightness: 0.20374415279366076
+  saturation: 0.08096038131043315
+  rhythmicContrast: 0.217350052902475
+purpose: []
